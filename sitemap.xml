@@ -657,14 +657,6 @@
 <lastmod>2023-10-25T11:29:45-06:00</lastmod>
 </url>
 <url>
-<loc>https://astephanus.github.io/benchmark/workloads/reference/index/</loc>
-<lastmod>2023-10-31T09:18:45-06:00</lastmod>
-</url>
-<url>
-<loc>https://astephanus.github.io/benchmark/workloads/reference/indices/</loc>
-<lastmod>2023-10-31T09:18:45-06:00</lastmod>
-</url>
-<url>
 <loc>https://astephanus.github.io/clients/OSC-dot-net/</loc>
 <lastmod>2023-07-18T11:08:56-06:00</lastmod>
 </url>
@@ -829,6 +821,10 @@
 <lastmod>2023-10-16T08:42:37-06:00</lastmod>
 </url>
 <url>
+<loc>https://astephanus.github.io/dashboards/query-workbench/</loc>
+<lastmod>2023-11-02T16:39:35-06:00</lastmod>
+</url>
+<url>
 <loc>https://astephanus.github.io/dashboards/quickstart/</loc>
 <lastmod>2023-09-19T13:07:42-06:00</lastmod>
 </url>
@@ -890,7 +886,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/common-use-cases/trace-analytics/</loc>
-<lastmod>2023-04-27T13:50:50-06:00</lastmod>
+<lastmod>2023-11-07T14:48:11-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/getting-started/</loc>
@@ -902,7 +898,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/managing-data-prepper/configuring-data-prepper/</loc>
-<lastmod>2023-05-26T16:57:18-06:00</lastmod>
+<lastmod>2023-11-06T11:23:59-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/managing-data-prepper/configuring-log4j/</loc>
@@ -910,7 +906,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/managing-data-prepper/core-apis/</loc>
-<lastmod>2023-02-10T10:10:20-06:00</lastmod>
+<lastmod>2023-11-07T14:48:11-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/managing-data-prepper/managing-data-prepper/</loc>
@@ -922,7 +918,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/managing-data-prepper/peer-forwarder/</loc>
-<lastmod>2023-02-08T16:48:20-06:00</lastmod>
+<lastmod>2023-11-07T14:48:11-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/managing-data-prepper/source-coordination/</loc>
@@ -1034,7 +1030,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/pipelines/configuration/processors/rename-keys/</loc>
-<lastmod>2023-05-03T08:04:30-06:00</lastmod>
+<lastmod>2023-11-03T11:08:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/pipelines/configuration/processors/routes/</loc>
@@ -1110,7 +1106,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/pipelines/configuration/sources/opensearch/</loc>
-<lastmod>2023-10-31T09:18:45-06:00</lastmod>
+<lastmod>2023-11-03T11:08:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/pipelines/configuration/sources/otel-logs-source/</loc>
@@ -1146,7 +1142,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/data-prepper/pipelines/pipelines/</loc>
-<lastmod>2023-08-21T09:43:32-06:00</lastmod>
+<lastmod>2023-11-06T11:23:59-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/developer-documentation/extensions/</loc>
@@ -1421,12 +1417,16 @@
 <lastmod>2023-10-23T08:53:52-06:00</lastmod>
 </url>
 <url>
+<loc>https://astephanus.github.io/ingest-pipelines/processors/grok/</loc>
+<lastmod>2023-11-06T15:02:01-06:00</lastmod>
+</url>
+<url>
 <loc>https://astephanus.github.io/ingest-pipelines/processors/index-processors/</loc>
 <lastmod>2023-10-23T08:53:52-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/ingest-pipelines/processors/ip2geo/</loc>
-<lastmod>2023-10-23T08:53:52-06:00</lastmod>
+<lastmod>2023-11-07T15:41:27-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/ingest-pipelines/processors/lowercase/</loc>
@@ -1602,7 +1602,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/ml-commons-plugin/model-access-control/</loc>
-<lastmod>2023-09-22T15:29:58-06:00</lastmod>
+<lastmod>2023-11-06T11:19:11-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/ml-commons-plugin/pretrained-models/</loc>
@@ -1850,7 +1850,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/query-dsl/full-text/match/</loc>
-<lastmod>2023-11-01T07:29:13-06:00</lastmod>
+<lastmod>2023-11-06T11:23:59-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/query-dsl/full-text/multi-match/</loc>
@@ -2190,7 +2190,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/index/</loc>
-<lastmod>2023-05-26T15:48:31-06:00</lastmod>
+<lastmod>2023-11-02T16:39:35-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/limitation/</loc>
@@ -2206,7 +2206,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/ppl/index/</loc>
-<lastmod>2023-05-26T15:48:31-06:00</lastmod>
+<lastmod>2023-11-07T12:28:54-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/ppl/syntax/</loc>
@@ -2222,7 +2222,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/sql-ppl-api/</loc>
-<lastmod>2023-02-20T10:34:20-06:00</lastmod>
+<lastmod>2023-11-02T16:39:35-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/sql/aggregations/</loc>
@@ -2246,7 +2246,7 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/sql/index/</loc>
-<lastmod>2023-05-17T10:57:14-06:00</lastmod>
+<lastmod>2023-11-02T16:39:35-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/sql/jdbc/</loc>
@@ -2266,10 +2266,6 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/search-plugins/sql/troubleshoot/</loc>
-<lastmod>2023-05-17T10:57:14-06:00</lastmod>
-</url>
-<url>
-<loc>https://astephanus.github.io/search-plugins/sql/workbench/</loc>
 <lastmod>2023-05-17T10:57:14-06:00</lastmod>
 </url>
 <url>
@@ -2594,11 +2590,11 @@
 </url>
 <url>
 <loc>https://astephanus.github.io/tuning-your-cluster/availability-and-recovery/segment-replication/backpressure/</loc>
-<lastmod>2023-06-05T12:10:45-06:00</lastmod>
+<lastmod>2023-11-02T16:12:21-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/tuning-your-cluster/availability-and-recovery/segment-replication/index/</loc>
-<lastmod>2023-10-12T13:00:23-06:00</lastmod>
+<lastmod>2023-11-02T16:12:21-06:00</lastmod>
 </url>
 <url>
 <loc>https://astephanus.github.io/tuning-your-cluster/availability-and-recovery/shard-indexing-backpressure/</loc>
