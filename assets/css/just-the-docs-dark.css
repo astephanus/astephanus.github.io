@@ -10557,6 +10557,13 @@ body {
     box-sizing: content-box;
   }
 }
+#top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li > .nested-nav--top-menu-item-wrapper > .nested-nav--top-menu-item-wrapper--link > a.in-category, #top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li > .nested-nav--top-menu-item-wrapper > .nested-nav--top-menu-item-wrapper--link > a:hover {
+  color: #006D97;
+  text-decoration: underline;
+  text-decoration-color: #006D97;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
+}
 @media screen and (max-width: 1018px) {
   #top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li > .nested-nav--top-menu-item-wrapper > .nested-nav--top-menu-item-wrapper--link > a {
     color: #E1F0F9;
@@ -11022,14 +11029,6 @@ body {
   #top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li.top-banner-search > .top-banner-search--overlay {
     display: none;
   }
-}
-#top > .navigation-container > .navigation-container--nested-nav-wrapper .navigation-container--nested-nav-wrapper--nested-nav a.in-category,
-#top > .navigation-container > .navigation-container--nested-nav-wrapper .navigation-container--nested-nav-wrapper--nested-nav a:hover {
-  color: #006D97;
-  text-decoration: underline;
-  text-decoration-color: #006D97;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 6px;
 }
 
 .search-active #top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li.top-banner-search > .top-banner-search--field-with-results > .top-banner-search--field-with-results--field > .top-banner-search--field-with-results--field--wrapper > .top-banner-search--field-with-results--field--wrapper--search-component > #search-results.top-banner-search--field-with-results--field--wrapper--search-component--search-results {
