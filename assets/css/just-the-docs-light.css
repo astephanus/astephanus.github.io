@@ -10505,6 +10505,16 @@ body {
     transition: opacity 0.25s ease-out, top 0.25s ease-out, visibility 0s;
   }
 }
+@media screen and (min-width: 1040px) and (max-width: 1102px) {
+  #top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li {
+    margin-right: 0.9vw;
+  }
+}
+@media screen and (min-width: 1103px) and (max-width: 1149px) {
+  #top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li {
+    margin-right: 1vw;
+  }
+}
 @media screen and (min-width: 1150px) and (max-width: 1369px) {
   #top > .navigation-container > .navigation-container--nested-nav-wrapper > .navigation-container--nested-nav-wrapper--nested-nav > li {
     margin-right: 15px;
